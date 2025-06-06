@@ -9,15 +9,13 @@ class script(object):
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
-    HELP_TXT = """<b>ʏᴏᴜ ᴅᴏɴ'ᴛ ɴᴇᴇᴅ ᴍᴀɴʏ ᴄᴏᴍᴍᴇɴᴛs ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ \n\nᴊᴜsᴛ sᴇɴᴅ ᴍᴇ ғɪʟᴇs ᴀɴᴅ I ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴅɪʀᴇᴄᴛ ʙᴏᴡɴʟᴏᴀᴅ & sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋ\n\nᴀʟsᴏ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴀɴᴅ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 💥\n\nғᴏʀ ᴍᴏʀᴇ, ᴜꜱᴇ /help ᴄᴏᴍᴍᴀɴᴅ\nᴍᴏʀᴇ, ᴜꜱᴇ /about ᴄᴏᴍᴍᴀɴᴅ</b>"""
+    HELP_TXT = """<b>ʏᴏᴜ ᴅᴏɴ'ᴛ ɴᴇᴇᴅ ᴍᴀɴʏ ᴄᴏᴍᴍᴇɴᴛs ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ \n\nᴊᴜsᴛ sᴇɴᴅ ᴍᴇ ғɪʟᴇs ᴀɴᴅ I ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴅɪʀᴇᴄᴛ ʙᴏᴡɴʟᴏᴀᴅ & sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋ 💯</b>"""
 
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
 # For Any Kind Of Error Ask Us In Support Group @AV_SUPPORT_GROUP
     
-    ADMIN_CMD_TXT = """<b>
-    
-Olay aman vishwakarma ne add Kiya hai 
+    ADMIN_CMD_TXT = """<b> 
 
 /broadcast send massage users 
 /users To get users details
@@ -54,10 +52,10 @@ Cʜᴀɴɴᴇʟ Uꜱᴀɢᴇ:
 🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ.
 
 📮 Hᴇʟᴘ & Sᴜᴘᴘᴏʀᴛ:
-• Uᴘᴅᴀᴛᴇꜱ: @AV_BOTz_UPDATE
-• Sᴜᴘᴘᴏʀᴛ: @AV_SUPPORT_GROUP
+• Uᴘᴅᴀᴛᴇꜱ: @Movie_Loverzz 
+• Sᴜᴘᴘᴏʀᴛ: @MovieEntertainment4u 
 
- <u><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/AV_OWNER_BOT'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></u></i></b>"""
+ <u><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/Mladminbot'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></u></i></b>"""
 
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
@@ -70,9 +68,8 @@ Nᴀᴍᴇ - {}"""
     ABOUT_TXT = """<b>╔════❰ {} ❱═══════❍
 ║╭━━━━━━━━━━━━━━━━━━➣
 ║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {}
-║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AV_OWNER_BOT'>ᴀᴠ ᴄʜᴀᴛ ᴏᴡɴᴇʀ</a>
-║┣⪼❣️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/AV_BOTz_UPDATE>ᴀᴠ ʙᴏᴛᴢ</a>
-║┣⪼💻sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://github.com/Botsthe/AV-FILE-TO-LINK>ʀᴇᴘᴏ</a>
+║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/mladminbot'> ᴏᴡɴᴇʀ </a>
+║┣⪼❣️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/Movie_loverzz>Main Channel</a>
 ║┣⪼⏲️ʙᴏᴛ ᴜᴘᴛɪᴍᴇ :- {}
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ᴋᴏʏᴇʙ 
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
@@ -90,15 +87,13 @@ Nᴀᴍᴇ - {}"""
     CAPTION_TXT = """
 <i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>
 
-<b>📧 ꜰɪʟᴇ ɴᴀᴍᴇ :- </b> <i><a href=https://t.me/av_botz_updated>{}</a></i>
+<b>📧 ꜰɪʟᴇ ɴᴀᴍᴇ :- </b> <i><a href=https://t.me/MovieEntertainment4u>{}</a></i>
 
 <b>📦 ꜰɪʟᴇ sɪᴢᴇ :- </b> <i>{}</i>
 
-<b><u><i>Tap To Copy Link 👇</u></i></b>
+<b>🖥 Stream  : </b> {}
 
-<b>🖥 Stream  : </b> <code>{}</code>
-
-<b>📥 Download : </b> <code>{}</code>
+<b>📥 Download : </b> {}
 
 <b>⚠️ ᴛʜɪꜱ ʟɪɴᴋ ᴡɪʟʟ ᴇxᴘɪʀᴇ ᴀꜰᴛᴇʀ 𝟼 ʜᴏᴜʀꜱ</b>"""
 
