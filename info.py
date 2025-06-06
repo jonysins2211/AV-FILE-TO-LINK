@@ -61,7 +61,7 @@ SLEEP_THRESHOLD = int(getenv('SLEEP_THRESHOLD', '60'))
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
 WORKERS = int(getenv('WORKERS', '6'))
 MULTI_CLIENT = False
-name = str(environ.get('name', 'avbotz'))
+name = str(environ.get('name', 'Movie_loverzz'))
 APP_NAME = None
 if 'DYNO' in environ:
     ON_HEROKU = True
