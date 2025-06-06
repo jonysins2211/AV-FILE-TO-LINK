@@ -80,7 +80,7 @@
         function playOnline(player) {
             const encodedUrl = encodeURIComponent(finalUrl);
             const playerUrls = {
-                vlc: `intent:${finalUrl}#Intent;scheme=vlc;package=org.videolan.vlc;end`,
+                vlc: `vlc://${finalUrl.replace(/^https?:\/\//, '')}`,
                 mx: `intent:${finalUrl}#Intent;package=com.mxtech.videoplayer.ad;type=video/mp4;end`,
                 np: `nplayer-${finalUrl}`,
                 sp: `intent:${finalUrl}#Intent;action=com.young.simple.player.playback_online;package=com.young.simple.player;end`,
