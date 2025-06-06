@@ -25,7 +25,7 @@ PICS = environ.get('PICS', 'https://graph.org/file/a319f6b9ce3b993c6e22f.jpg')
 
 # channel link information
 CHANNEL = environ.get('CHANNEL', 'https://t.me/MovieEntertainment4u')
-SUPPORT = environ.get('SUPPORT', 'http://t.me/')
+SUPPORT = environ.get('SUPPORT', 'http://t.me/movie_loverzz')
 
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
