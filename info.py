@@ -68,12 +68,12 @@ if 'DYNO' in environ:
     APP_NAME = str(getenv('APP_NAME')) #dont need to fill anything here
 else:
     ON_HEROKU = False
-FQDN = str(getenv('FQDN', 'BIND_ADRESS:PORT')) if not ON_HEROKU or getenv('FQDN', 'https://a-loki-bot2-b9b930b68654.herokuapp.com/') else APP_NAME+'.herokuapp.com'
+FQDN = str(getenv('FQDN', 'BIND_ADRESS:PORT')) if not ON_HEROKU or getenv('FQDN', 'https://movie-loverz-bot5-ec6ea87d1788.herokuapp.com/') else APP_NAME+'.herokuapp.com'
 HAS_SSL=bool(getenv('HAS_SSL',True))
 if HAS_SSL:
-    URL = "https://a-loki-bot2-b9b930b68654.herokuapp.com/".format(FQDN)
+    URL = "https://movie-loverz-bot5-ec6ea87d1788.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://a-loki-bot2-b9b930b68654.herokuapp.com/".format(FQDN)
+    URL = "https://movie-loverz-bot5-ec6ea87d1788.herokuapp.com/".format(FQDN)
       
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
